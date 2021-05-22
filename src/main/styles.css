@@ -66,6 +66,8 @@ body {
 	/* max-width: 70%; */
 	text-align: center;
 	margin: auto;
+	width: 450px;
+    height: 450px;
 }
 img,
 iframe {
@@ -110,6 +112,10 @@ img {
 	margin: 5px;
 }
 
+img {
+	height: 200px;
+}
+
 /* Forms */
 
 input,
@@ -131,6 +137,7 @@ label {
 
 .api-input {
 	padding-top: 2.5em;
+	padding: 1em;
 }
 
 button,
